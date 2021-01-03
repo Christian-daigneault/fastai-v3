@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url ='https://drive.google.com/uc?export=download&id=1oNYt-iyf1R3yBYhZgV2ucp2rSDSt-8PD'
+export_file_url ='https://www.dropbox.com/s/bat29mkquo5fe74/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['Van Gogh', 'Monet', 'Matisse']
